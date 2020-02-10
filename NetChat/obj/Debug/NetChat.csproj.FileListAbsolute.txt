@@ -1,0 +1,11 @@
+H:\Documents\Documents\MainProjects -----+\Windows\NetChat\NetChat\bin\Debug\NetChat.exe.config
+H:\Documents\Documents\MainProjects -----+\Windows\NetChat\NetChat\bin\Debug\NetChat.exe
+H:\Documents\Documents\MainProjects -----+\Windows\NetChat\NetChat\obj\Debug\NetChat.AdminChat.resources
+H:\Documents\Documents\MainProjects -----+\Windows\NetChat\NetChat\obj\Debug\NetChat.ChangeName.resources
+H:\Documents\Documents\MainProjects -----+\Windows\NetChat\NetChat\obj\Debug\NetChat.Chat.resources
+H:\Documents\Documents\MainProjects -----+\Windows\NetChat\NetChat\obj\Debug\NetChat.Form1.resources
+H:\Documents\Documents\MainProjects -----+\Windows\NetChat\NetChat\obj\Debug\NetChat.Home.resources
+H:\Documents\Documents\MainProjects -----+\Windows\NetChat\NetChat\obj\Debug\NetChat.Properties.Resources.resources
+H:\Documents\Documents\MainProjects -----+\Windows\NetChat\NetChat\obj\Debug\NetChat.csproj.GenerateResource.Cache
+H:\Documents\Documents\MainProjects -----+\Windows\NetChat\NetChat\obj\Debug\NetChat.exe
+H:\Documents\Documents\MainProjects -----+\Windows\NetChat\NetChat\obj\Debug\NetChat.pdb
